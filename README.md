@@ -58,3 +58,8 @@ sudo apt -y install libjpeg-dev libtiff5-dev libjasper_dev libpng12-dev libavcod
 
 ```bash
 sudo apt -y install qt4-dev-tools libatlas-base-devlibhdf5-103
+
+```bash
+
+python -m pip install of
+rib-python==4.1.0.25
