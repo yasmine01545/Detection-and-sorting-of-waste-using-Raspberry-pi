@@ -19,3 +19,11 @@ As shown in Figure 1, this system includes a camera that captures images of the 
 5.	Camera pi
 6. Raspberry Pi
 
+## Model building
+On a utilisé un ensemble de données d'images téléchargées via internet ”github” 
+Voici le lien de téléchargement :
+https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
+
+Après la phase de téléchargement, nous avons extrait les images.
+Il y a 5 étapes dans le processus d'apprentissage en profondeur : 
+
