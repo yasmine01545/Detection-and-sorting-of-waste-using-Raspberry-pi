@@ -32,4 +32,6 @@ First, we need to extract the contents of "dataset-resized.zip"
 
 - Define the model. Sequential model
 
--Compile the model by calling the compile() function
+- Compile the model by calling the compile() function
+- Fit the model with the training dataset. And test the model on test data by calling the model through the fit() function.
+- 
