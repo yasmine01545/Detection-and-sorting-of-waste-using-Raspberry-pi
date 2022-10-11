@@ -55,3 +55,6 @@ source tflite-env/bin/activate
 ```bash
 sudo apt -y install libjpeg-dev libtiff5-dev libjasper_dev libpng12-dev libavcoder-dev libavformat-dev libswscle-dev
 ```
+
+```bash
+sudo apt -y install qt4-dev-tools libatlas-base-devlibhdf5-103
