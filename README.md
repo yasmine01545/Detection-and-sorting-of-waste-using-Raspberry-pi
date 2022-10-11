@@ -34,4 +34,10 @@ First, we need to extract the contents of "dataset-resized.zip"
 
 - Compile the model by calling the compile() function
 - Fit the model with the training dataset. And test the model on test data by calling the model through the fit() function.
-- 
+![image](https://user-images.githubusercontent.com/80918787/195160912-6f83ffab-3ed0-497a-8af1-82aa9d561bff.png)
+
+After defining the model and compiling it, we need to make predictions by running the model on the same data. Here we specify the epochs (epochs are the number of iterations for the training process to run in the dataset and the batch size is a number of instances that are evaluated before updating the weight)
+
+-  Make a prediction by calling the evaluation or prediction() function.
+
+
