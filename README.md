@@ -22,8 +22,8 @@ As shown in Figure 1, this system includes a camera that captures images of the 
 ## Model building
 We used a set of image data downloaded from the internet ”github”
 Here is the download link:
-https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
-
+[https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
+](https://github.com/garythung/trashnet/tree/master/data)
 After the download phase, we extracted the images.
 There are 5 steps in the deep learning process:
 - Load data
