@@ -40,6 +40,7 @@ This repository contains the dataset that we collected. The dataset spans six cl
 - 482 plastic
 - 410 metal
 - 137 trash
+
 The pictures were taken by placing the object on a white posterboard and using sunlight and/or room lighting. The pictures have been resized down to 512 x 384,
 
 - Define the model. Sequential model
