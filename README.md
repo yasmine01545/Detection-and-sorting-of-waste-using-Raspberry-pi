@@ -30,4 +30,6 @@ There are 5 steps in the deep learning process:
 
 First, we need to extract the contents of "dataset-resized.zip"
 
-- Load data
+- Define the model. Sequential model
+
+-Compile the model by calling the compile() function
