@@ -20,12 +20,14 @@ As shown in Figure 1, this system includes a camera that captures images of the 
 6. Raspberry Pi
 
 ## Model building
-On a utilisé un ensemble de données d'images téléchargées via internet ”github” 
-Voici le lien de téléchargement :
+We used a set of image data downloaded from the internet ”github”
+Here is the download link:
 https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
-Après la phase de téléchargement, nous avons extrait les images.
-Il y a 5 étapes dans le processus d'apprentissage en profondeur : 
+After the download phase, we extracted the images.
+There are 5 steps in the deep learning process:
 - Load data
+
 First, we need to extract the contents of "dataset-resized.zip"
 
+- Load data
