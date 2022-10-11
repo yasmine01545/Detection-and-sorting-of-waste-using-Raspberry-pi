@@ -39,6 +39,8 @@ First, we need to extract the contents of "dataset-resized.zip"
 After defining the model and compiling it, we need to make predictions by running the model on the same data. Here we specify the epochs (epochs are the number of iterations for the training process to run in the dataset and the batch size is a number of instances that are evaluated before updating the weight)
 
 -  Make a prediction by calling the evaluation or prediction() function.
+
+
 ![image](https://user-images.githubusercontent.com/80918787/195161300-38bee4e9-be16-44c2-b077-3d647e3c9612.png)
 
 ![image](https://user-images.githubusercontent.com/80918787/195161357-cb8a41f5-17b4-40ba-bcbf-111069094577.png)
