@@ -63,3 +63,9 @@ sudo apt -y install qt4-dev-tools libatlas-base-devlibhdf5-103
 
 python -m pip install of rib-python==4.1.0.25
 ```
+![image](https://user-images.githubusercontent.com/80918787/195163424-3e01a001-5c60-4392-919f-940903c413fd.png)
+
+
+## Resultat
+
+
