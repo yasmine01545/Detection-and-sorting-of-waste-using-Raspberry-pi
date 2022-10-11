@@ -46,4 +46,12 @@ After defining the model and compiling it, we need to make predictions by runnin
 ![image](https://user-images.githubusercontent.com/80918787/195161357-cb8a41f5-17b4-40ba-bcbf-111069094577.png)
 
 
+## Installation
 
+```bash
+source tflite-env/bin/activate
+```
+
+```bash
+sudo apt -y install libjpeg-dev libtiff5-dev libjasper_dev libpng12-dev libavcoder-dev libavformat-dev libswscle-dev
+```
