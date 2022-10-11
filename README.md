@@ -26,4 +26,5 @@ https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
 Après la phase de téléchargement, nous avons extrait les images.
 Il y a 5 étapes dans le processus d'apprentissage en profondeur : 
+*	Charger les données
 
