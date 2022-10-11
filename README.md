@@ -30,7 +30,7 @@ There are 5 steps in the deep learning process:
 
 
 First, we need to extract the contents of "dataset-resized.zip"
- The dataset can be downloaded [here].
+
 
 
 This repository contains the dataset that we collected. The dataset spans six classes: glass, paper, cardboard, plastic, metal, and trash. Currently, the dataset consists of 2527 images:
